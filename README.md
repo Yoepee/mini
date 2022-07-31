@@ -5,8 +5,9 @@
 
 1. Materialize 프레임워크 - 반응형 제작에 용이 (반응형 - 휴대폰처럼 화면 크기에 따라 반응)
 https://materializecss.com/
-2. BULMA 프레임 워크 - CSS로만 구성된 프레임워크
-https://bulma.io/
+2. BULMA 프레임 워크 - CSS로만 구성된 프레임워크https://bulma.io/
+ -템플릿참고 https://bulmatemplates.github.io/bulma-templates/
+
 3. 핵심기능
   - jinja2 템플릿 엔진이용한 서버 사이드 렌더링(SSR)
     ssr은 html에 채우는거보다 서버를 통해 데이터를 받아와서 렌더링(보여주는) 방식
